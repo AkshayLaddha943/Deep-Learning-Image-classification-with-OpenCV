@@ -10,3 +10,6 @@ OBJECT DETECTION:
 
 Single Shot MultiBox Detector (SSD) is a single deep neural network developed to predict both the bounding boxes and the class probabilities at the same time by means of an 
 end-to-end convolutional neural network architecture.
+
+You only look once (YOLO) is a deep learning architecture that predicts both bounding boxes and class probabilities in a single step. Compared to other deep learning detectors, 
+YOLO makes more localization errors, but it is less likely to predict false positives in the background.
